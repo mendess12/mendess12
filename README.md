@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi everyone! I'm Yusuf 👋
 
-<!--
-**mendess12/mendess12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm a Computer Engineering student and I'm working on android mobile development.<br>
+🔭 I’m currently learning android mobile with kotlin.
+<hr>
 
-Here are some ideas to get you started:
+### Social Media
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mendess12) 
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yusufmendes01/) 
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=mendess12&show_icons=true&theme=radical)
+<hr>
+
+### My Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendess12&theme=tokyonight)
+<hr>
