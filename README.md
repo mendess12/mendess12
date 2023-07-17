@@ -1,6 +1,6 @@
 ### Hi everyone! I'm Yusuf 👋
 
-🔭 I'm a Computer Engineering student and I'm working on android mobile development.<br>
+🔭 I'm a Computer Engineering and I'm working on android mobile development.<br>
 🔭 I’m currently learning android mobile with kotlin.
 <hr>
 
